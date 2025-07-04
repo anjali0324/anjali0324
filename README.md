@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anjalikumari&theme=radical&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalikumari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikumari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anjali0324&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjali0324&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali0324&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 
